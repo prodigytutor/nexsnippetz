@@ -22,6 +22,12 @@ const defaultRoutes: Tool[] = [
     color: "text-white",
   },
   {
+    label: "Snippets",
+    icon: "page",
+    href: "/dashboard/snippets",
+    color: "text-white",
+  },
+  {
     label: "Settings",
     icon: "settings",
     href: "/dashboard/settings",

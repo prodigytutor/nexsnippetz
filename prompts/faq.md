@@ -15,9 +15,9 @@ The FAQ must be clear, detailed, and written in a language understandable to our
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
-{{industry}}=
-{{{serviceTypes}}: File storage, collaboration tools, project management, real-time analytics
+{{startupName}}=NexSnipprtz
+{{industry}}=developer code snippet management
+{{{serviceTypes}}: snippet storage, collaboration tools, project management, real-time analytics, snippet versioning, ai snippet management
 {{securityMeasures}}: SSL/TLS encryption, multi-factor authentication, regular security audits
 {{userResponsibilities}}: Maintaining account security, following acceptable use policy, ensuring data accuracy
 {{companyObligations}}: Providing secure and reliable services, offering customer support, maintaining uptime

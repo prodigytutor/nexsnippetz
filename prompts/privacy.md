@@ -6,8 +6,8 @@ The policy must be detailed, clear, compliant with applicable laws, and written 
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
-{{industry}}=
+{{startupName}}=NexSnippetz 
+{{industry}}=developer code snippet management
 {{dataTypes}}: Full name, email address, phone number, physical address, payment information (credit/debit card, PayPal), social media profiles, device information (IP address, browser type)
 {{dataUsage}}: Billing and processing payments, analytics and user behavior tracking, personalized marketing and advertising, customer support, service improvement
 {{dataSharingEntities}}: Payment processors, third-party analytics providers, marketing partners, regulatory authorities (if required by law)

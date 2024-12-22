@@ -2,5 +2,5 @@ Generate a user onboarding guide for my SaaS startup {{startupName}}. Include st
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
+{{startupName}}=NexSnippetz
 {{language}}=english

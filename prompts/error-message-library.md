@@ -2,5 +2,5 @@ Generate a library of user-friendly error messages for my startup {{startupName}
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
+{{startupName}}=NexSnippetz
 {{language}}=english

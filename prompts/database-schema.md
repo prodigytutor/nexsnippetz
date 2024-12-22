@@ -2,6 +2,6 @@ Generate a database schema for my startup {{startupName}}, which is focused on {
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
-{{industry}}=
+{{startupName}}=NexSnippetz
+{{industry}}=developer code snippet management
 {{language}}=english

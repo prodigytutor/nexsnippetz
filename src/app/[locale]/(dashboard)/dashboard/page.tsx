@@ -2,6 +2,7 @@ import { tools } from "@/config/tools"
 import { Icons } from "@/components/icons"
 import ApplicationCard from "@/components/application-card"
 import { loadFullApplications } from "@/lib/applications"
+import Link from "next/link"
 
 export default async function HomePage() {
   const applications = await loadFullApplications()
@@ -14,10 +15,12 @@ export default async function HomePage() {
         </h2>
         <p className="text-muted-foreground font-light text-sm md:text-lg text-center">
           Work 10x faster with your personal AI assistants.
+          <Link href='/dashboard/snippet'>Snippts</Link>
         </p>
       </div>
       <div className="px-4 md:px-20 lg:px-32 space-y-4">
-        <div className="w-full grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3 place-items-center lg:gap-5 px-4 md:px-8">
+        {/* <div className="w-full grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3 place-items-center lg:gap-5 px-4 md:px-8">
+
           {applications.map((application) => {
             const Icon = Icons[application.icon as keyof typeof Icons]
             return (
@@ -72,7 +75,7 @@ export default async function HomePage() {
               />
             )
           })}
-        </div>
+        </div> */}
       </div>
     </div>
   )

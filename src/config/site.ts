@@ -22,25 +22,25 @@ export type SiteConfig = {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Ai Micro Saas Starter",
-  nameShort: "AIMSS",
+  name: "NexSnippetz",
+  nameShort: "NexS",
   description:
-    "An open source AI Micro Saas Starter built to be used with GeneratedBy API.",
-  url: "https://generatedby.com",
-  email: "human@generatedby.com",
+    "An open source AI Micro Saas to help developer maintain a snippet toolbox.",
+  url: "https://snippet.nexapps.online",
+  email: "david@nexai.network",
   ogImage: "/web-shot.png",
   version: "0.1.0",
   links: {
-    twitter: "https://twitter.com/Generated_by",
-    github: "https://github.com/0xGeegZ",
-    twitterHandle: "Generated_by",
-    discord: "https://discord.gg/s9VJR2wXhd",
-    linkedin: "https://www.linkedin.com/company/generatedby",
-    youtube: "https://www.youtube.com/@Generated_By",
+    twitter: "https://twitter.com/",
+    github: "https://github.com/",
+    twitterHandle: "nexai",
+    discord: "https://discord.gg/",
+    linkedin: "https://www.linkedin.com/company/",
+    youtube: "https://www.youtube.com/@",
   },
   author: {
-    twitter: "https://twitter.com/0xGeegZ",
-    github: "https://github.com/0xGeegZ",
-    linkedin: "https://www.linkedin.com/in/guillaumedieudonne/",
+    twitter: "https://twitter.com/",
+    github: "https://github.com/",
+    linkedin: "https://www.linkedin.com/in//",
   },
 }

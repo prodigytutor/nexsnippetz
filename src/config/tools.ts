@@ -8,17 +8,23 @@ export const applications = [
     color: "text-emerald-500",
     bgColor: "bg-emerald-500/10",
   },
+  {
+    id: "clnerx13w0006jl0fsnippetz",
+    icon: "messageSquare",
+    color: "text-navy-500",
+    bgColor: "bg-navy-500/10",
+  },
 ]
 
 // Comment or uncomment the tools you want to use
 export const tools: Tool[] = [
-  // {
-  //   label: "Conversation",
-  //   icon: "messageSquare",
-  //   href: "/dashboard/conversation",
-  //   color: "text-violet-500",
-  //   bgColor: "bg-violet-500/10",
-  // },
+  {
+    label: "Conversation",
+    icon: "messageSquare",
+    href: "/dashboard/conversation",
+    color: "text-violet-500",
+    bgColor: "bg-violet-500/10",
+  },
   // {
   //   label: "Music Generation",
   //   icon: "music",
@@ -26,13 +32,13 @@ export const tools: Tool[] = [
   //   color: "text-emerald-500",
   //   bgColor: "bg-emerald-500/10",
   // },
-  {
-    label: "Image Generation",
-    icon: "imageIcon",
-    color: "text-pink-700",
-    bgColor: "bg-pink-700/10",
-    href: "/dashboard/image",
-  },
+  // {
+  //   label: "Image Generation",
+  //   icon: "imageIcon",
+  //   color: "text-pink-700",
+  //   bgColor: "bg-pink-700/10",
+  //   href: "/dashboard/image",
+  // },
   // {
   //   label: "Video Generation",
   //   icon: "videoIcon",
@@ -40,11 +46,18 @@ export const tools: Tool[] = [
   //   bgColor: "bg-orange-700/10",
   //   href: "/dashboard/video",
   // },
-  // {
-  //   label: "Code Generation",
-  //   icon: "code",
-  //   color: "text-green-700",
-  //   bgColor: "bg-green-700/10",
-  //   href: "/dashboard/code",
+  {
+    label: "Code Generation",
+    icon: "code",
+    color: "text-green-700",
+    bgColor: "bg-green-700/10",
+    href: "/dashboard/code",
+  },
+  //  {
+  //   label: "Snippet Manager",
+  //   icon: "page",
+  //   color: "text-navy-700",
+  //   bgColor: "bg-navy-700/10",
+  //   href: "/dashboard/snippet",
   // },
 ]

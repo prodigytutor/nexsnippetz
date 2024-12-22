@@ -4,8 +4,8 @@ Please include the procedures for users to follow if they wish to {{resolutionPr
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
-{{industry}}=
+{{startupName}}=NexSnippetz
+{{industry}}=developer code snippet management
 {{serviceTypes}}: cloud storage, data analytics, customer support
 {{userResponsibilities}}: maintaining account security, not sharing copyrighted content, abiding by usage limits
 {{companyObligations}}: providing a secure platform, uptime guarantee, customer support

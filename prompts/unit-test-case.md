@@ -2,6 +2,6 @@ Generate a suite of automated test cases for my startup {{startupName}}, which o
 
 Please, write the output in {{language}}.
 
-{{startupName}}=
-{{industry}}=
+{{startupName}}=NexSnippetz 
+{{industry}}=developer code snippet management
 {{language}}=english

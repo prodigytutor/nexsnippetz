@@ -23,10 +23,10 @@ export const Hero = () => {
           <TypewriterComponent
             options={{
               strings: [
-                "Social Media Marketing.",
-                "Content Writing.",
-                "Recruitment & HR.",
-                "Product Management.",
+                "Managing Code Snippets.",
+                "Snippet AI Tools.",
+                "Snippet Versioning.",
+                "Snippet Generation from Prompt.",
               ],
               autoStart: true,
               loop: true,
